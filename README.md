@@ -9,7 +9,17 @@
 * 꾸준한 성장을 꿈꾸며 TIL 작성
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dooboocookie/TIL)
 
----
+```java
+class Dooboocookie{
+  String name = "백경환";
+  int age = 29;
+  
+  void drinkCoffee(){
+    System.out.println("일어나..코딩해야지..")
+  }
+}
+```
+
 <h2>tech stack 💻</h2>
 
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
