@@ -9,7 +9,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dooboocookie/TIL)
 
 ---
-<h3>tech stack</h3>
+<h2>tech stack 💻</h2>
 
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![oracle](https://img.shields.io/badge/-ORACLE-F80000?style=for-the-badge&logo=oracle)
