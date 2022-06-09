@@ -6,7 +6,7 @@
 </p>
 
 
-* 꾸준한 성장을 꿈꾸며 TIL 작성
+* TIL 작성
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dooboocookie/TIL)
 
 ```java
@@ -35,8 +35,10 @@ class Dooboocookie{
 
 ---
 
-[![파인만영상](https://i.ytimg.com/an_webp/3smc7jbUPiE/mqdefault_6s.webp?du=3000&sqp=CM72_JQG&rs=AOn4CLBdsEaYVuWx8ysIrCyeuJjWL7IfBw)](https://youtu.be/3smc7jbUPiE)
+[<img src="https://i.ytimg.com/vi/3smc7jbUPiE/maxresdefault.jpg" style="width:300px">](https://youtu.be/3smc7jbUPiE)
+
 <br>
+
 * `Project스노우볼`유튜브 채널의 `[리처드 파인만] “왜 자석은 서로 밀어내는가?”에 대한 답변 (한영 자막)`영상 링크
 * 항상 질문하고, 본질을 이해하고, 성장하는 개발자가 되고 싶다..
 > What I cannot create, I do not understand.  
