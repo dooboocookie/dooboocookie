@@ -6,21 +6,24 @@
 </p>
 
 
-* TIL 작성
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dooboocookie/TIL)
+* [TIL 작성](https://github.com/dooboocookie/TIL.git)을 작성하며 매일 매일 발전하고 있습니다.
 
-```java
-class Dooboocookie{
-  String name = "백경환";
-  int age = 29;
-  
-  void drinkCoffee(){
-    System.out.println("일어나..코딩해야지..")
-  }
-}
-```
 
-<h2>tech stack 💻</h2>
+<h2>프로젝트 💡</h2>
+
+* 쇼핑몰 프로젝트 
+  * 팀원
+    * 이채영, 박예린,  
+  * 2022.07-2022.08
+    * MVC패턴을 활용한 로그인, 상품 검색, 조회, 주문, 장바구니를 구현한 프로젝트
+    * 구현한 영역
+      * 카테고리 분류
+      * 제품 검색
+      * 팀장 역할
+    
+
+
+<h2>기술 💻</h2>
 
 ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![oracle](https://img.shields.io/badge/-ORACLE-F80000?style=for-the-badge&logo=oracle)
