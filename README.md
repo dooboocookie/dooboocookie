@@ -14,10 +14,13 @@
 ### [동물병원 줄서기 서비스](https://github.com/WIYA-waitinyourarea/wiya)
 * 이름 : WIAY(Wait In Your Area)
 * 내용 : 동물병원 줄서기 서비스와 반려동물 커뮤니티 및 반려동물용품 중고장터
+* 기간 : 2022.09~2022.10
 * 팀원 
   * 백경환(본인) / 이채영 / 함세강
 * 맡은 부분
-  * 병원 등록 
+  * 병원 등록 및 수정
+  * 병원 검색
+  * 줄서기 시스템
   
 ### [쇼핑몰 프로젝트](https://github.com/goodProgramers/Olive)
   * 팀원
