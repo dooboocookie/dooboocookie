@@ -1,15 +1,15 @@
-<h2> Hello World! 👋👋👋</h2>
+<h2>👋 소개</h2>
 <p>
   안녕하세요. <br>
   물리학과 졸업 후 웹 백엔드 개발자를 꿈꾸며 공부하고 있는
   백경환(dooboocookie)의 github 페이지입니다.
 </p>
 
+<p>
+매일 배운것을 정리([TIL 작성](https://github.com/dooboocookie/TIL.git))하며 성장하려고 노력중입니다.
+</p>
 
-* [TIL 작성](https://github.com/dooboocookie/TIL.git)을 작성하며 매일 매일 발전하고 있습니다.
-
-
-<h2>프로젝트 💡</h2>
+<h2>💡 프로젝트</h2>
 
 ### [동물병원 줄서기 서비스](https://github.com/WIYA-waitinyourarea/wiya)
 * 이름 : WIAY(Wait In Your Area)
@@ -34,7 +34,7 @@
     
 
 
-<h2>기술 💻</h2>
+<h2>💻 기술</h2>
 
 ![java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
