@@ -5,35 +5,6 @@
   물리학과 졸업 후 웹 백엔드 개발자를 꿈꾸며 공부하고 있는
   백경환(dooboocookie)의 github 페이지입니다.
 
-
-매일 배운것을 정리 [TIL 작성](https://github.com/dooboocookie/TIL.git) 하며 성장하려고 노력중입니다.
-
-
-<h2>💡 프로젝트</h2>
-
-### [동물병원 줄서기 서비스](https://github.com/WIYA-waitinyourarea/wiya)
-* 이름 : WIAY(Wait In Your Area)
-* 내용 : 동물병원 줄서기 서비스와 반려동물 커뮤니티 및 반려동물용품 중고장터
-* 기간 : 2022.09~2022.10(진행중)
-* 팀원 
-  * 백경환(본인) / 이채영 / 함세강
-* 맡은 부분
-  * 병원 등록 및 수정
-  * 병원 검색
-  * 줄서기 시스템
-  
-### [쇼핑몰 프로젝트](https://github.com/goodProgramers/Olive)
-* 이름 : Olive Zero
-* 내용 : MVC패턴을 활용한 로그인, 상품 검색, 조회, 주문, 장바구니를 구현한 프로젝트
-* 기간 : 2022.07~2022.08
-* 팀원 
-  * 김민 / 민윤기 / 박예린 / 백경환(본인) / 이채영
-* 맡은 부분
-  * 카테고리 분류
-  * 제품 검색
-  * 팀장
-
-
 <h2>💻 기술</h2>
 
 ![java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
