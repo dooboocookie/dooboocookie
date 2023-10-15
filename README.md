@@ -11,20 +11,12 @@
 ![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![spring boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 <br>
-![oracle](https://img.shields.io/badge/-ORACLE-F80000?style=for-the-badge&logo=oracle)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![jpa](https://img.shields.io/badge/JPA-181717?style=for-the-badge&logo=jpa)
 <br>
 ![Apache_tomcat](https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
 ![aws](https://img.shields.io/badge/amazon%20AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
-<br>
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jquery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery)
-<br>
-![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
